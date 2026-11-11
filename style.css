@@ -13,5 +13,7 @@ h3 { font-size: 17px; margin: 22px 0 6px; }
 a { color: var(--pink); }
 nav { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
 nav a { text-decoration: none; padding: 8px 16px; border-radius: 999px; border: 1px solid var(--line); background: var(--card); }
+.cta { text-align: center; margin: 0 0 24px; }
+.store { display: inline-block; padding: 12px 24px; border-radius: 999px; background: var(--pink); color: #fff; font-weight: 700; text-decoration: none; }
 ul { padding-left: 20px; }
 footer { text-align: center; margin-top: 40px; }
